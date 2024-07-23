@@ -19,14 +19,3 @@ To get started with this project, follow these steps:
 
 ## Modifications from me:
 Upon implementating the App according to guidlines from the course, I've added a Timer for each round.
-
-
-
-## Getting Started
-
-To get started with this project, follow these steps:
-
-1. Clone the repository.
-2. Open the project in Android Studio.
-3. Build and run the project.
-
